@@ -9,6 +9,6 @@ Explain your answer.
 
 Which pedestrian or group of pedestrians do you decide to hit?
 
-Group 1:  A woman
-Group 2:  A man
+Group 1:  A man
+Group 2:  A woman
 
