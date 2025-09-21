@@ -14,5 +14,5 @@ This project adapts the classic Trolley Problem example into a modern version of
 
 - The software is a Python3 script and runs in the usual manner
 - The script has been tested on Ubuntu
-- Place your own Venice.ai API key toward the top of the Python script
+- Place your own Grok API key toward the top of the Python script
 - Edit the program constants as needed at the top of the Python script
